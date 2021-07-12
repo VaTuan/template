@@ -1,5 +1,5 @@
 function App() {
-  console.log("123");
+  // console.log("123"); // no console
 
   return (
     <div className="App">
